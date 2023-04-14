@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "auth1-57e6b": {
+      "hosting": {
+        "angularfirebase-auth": [
+          "auth1-57e6b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "auth1-57e6b"
+  }
+}
